@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "hoek": "4.1.1"
+    "hoek": "6.1.3"
   }
 }
